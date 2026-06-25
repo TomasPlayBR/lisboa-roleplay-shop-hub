@@ -64,10 +64,10 @@ export function AboutTab() {
 
             <div className="space-y-3">
               {[
-                { k: "FUNDADO", v: "2024" },
-                { k: "JOGADORES", v: "200+" },
-                { k: "ORGANIZAÇÕES", v: "25+" },
-                { k: "STAFF ATIVA", v: "24/7" },
+                { k: "FUNDADO", v: "2026" },
+                { k: "JOGADORES", v: "100" },
+                { k: "ORGANIZAÇÕES", v: "6" },
+                { k: "STAFF ATIVA", v: "+10" },
               ].map((s) => (
                 <div
                   key={s.k}
